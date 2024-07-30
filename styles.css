@@ -446,6 +446,10 @@ main {
   .scroll-container {
     display: none;
   }
+
+  .work_ex {
+    max-height: 1600px;
+  }
 }
 
 
